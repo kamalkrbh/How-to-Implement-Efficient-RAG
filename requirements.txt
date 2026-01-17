@@ -1,0 +1,20 @@
+# Core NLP libraries
+nltk>=3.8.1
+
+# PRODUCTION-READY CHUNKING (ESSENTIAL - don't use naive text splitting!)
+langchain>=0.1.0  # Core LangChain framework
+langchain-text-splitters>=0.0.1  # Text splitting utilities (separate package in v1.0+)
+tiktoken>=0.5.0   # OpenAI's tokenizer for accurate token counting (GPT models)
+
+# Text processing & ML
+scikit-learn>=1.3.0
+
+# Vector store & embeddings
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Hybrid search (BM25 keyword matching)
+rank-bm25>=0.2.2
+
+# LLM API for query expansion
+groq>=0.4.0
