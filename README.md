@@ -12,3 +12,6 @@
 
 ### Part 4 - RAG | Augmentation, LLM Context Window Management, Prompt Templates, Context Integration.
 [![Watch Part 4](https://img.youtube.com/vi/bnnuJolkBEM/maxresdefault.jpg)](https://youtu.be/bnnuJolkBEM)
+
+### Part 5 - RAG | Generation, LLM Decoding Parameters, Temperature, Top-P, Top-K, Frequency & Presence Penalty.
+[![Watch Part 5](https://img.youtube.com/vi/9g01cUBLqgA/maxresdefault.jpg)](https://youtu.be/9g01cUBLqgA?si=IfhAen6UmI3TaSm6)
